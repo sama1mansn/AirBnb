@@ -13,5 +13,6 @@ import {
 } from 'react-native';
 
 import AirBnb from './app/container/indexios';
+import React, { Component } from 'react';
 
 AppRegistry.registerComponent('AirBnb', () => AirBnb);
